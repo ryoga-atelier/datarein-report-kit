@@ -1,0 +1,171 @@
+{
+ "client": "",
+ "issuer": "DATAREIN",
+ "days": 5,
+ "edition": "分析レポート",
+ "overall_summary": "",
+ "people": [
+  {
+   "name": "",
+   "score": 0,
+   "scores": [
+    0,
+    0,
+    0
+   ],
+   "headline": "",
+   "summary": "",
+   "role": "",
+   "conclusion": "",
+   "reasons": [
+    "",
+    "",
+    ""
+   ],
+   "rationale": "",
+   "pos": {
+    "role": "",
+    "fit": "",
+    "timing": "",
+    "scope": ""
+   },
+   "strengths": [
+    {
+     "title": "",
+     "body": ""
+    },
+    {
+     "title": "",
+     "body": ""
+    },
+    {
+     "title": "",
+     "body": ""
+    }
+   ],
+   "issues": [
+    {
+     "title": "",
+     "body": ""
+    },
+    {
+     "title": "",
+     "body": ""
+    },
+    {
+     "title": "",
+     "body": ""
+    }
+   ],
+   "timeline": [
+    {
+     "period": "",
+     "obs": ""
+    },
+    {
+     "period": "",
+     "obs": ""
+    },
+    {
+     "period": "",
+     "obs": ""
+    }
+   ],
+   "axis_detail": [
+    {
+     "observed": "",
+     "interpretation": "",
+     "implication": ""
+    },
+    {
+     "observed": "",
+     "interpretation": "",
+     "implication": ""
+    },
+    {
+     "observed": "",
+     "interpretation": "",
+     "implication": ""
+    }
+   ],
+   "traits": {
+    "work": "",
+    "ai": "",
+    "people": ""
+   },
+   "leadership": {
+    "verdict": "",
+    "body": ""
+   },
+   "risks": [
+    {
+     "risk": "",
+     "measure": ""
+    },
+    {
+     "risk": "",
+     "measure": ""
+    }
+   ],
+   "placement": {
+    "allow": [
+     ""
+    ],
+    "not_yet": [
+     ""
+    ],
+    "support": [
+     ""
+    ]
+   },
+   "work_image": [
+    "",
+    "",
+    ""
+   ],
+   "manager_guidance": [
+    "",
+    ""
+   ],
+   "checklist": [
+    "",
+    "",
+    ""
+   ],
+   "next_position": "",
+   "future": "",
+   "deduction_summary": ""
+  }
+ ],
+ "group_plan": {
+  "title": "チームに配置する場合の適性と役回り",
+  "lead": "",
+  "decision_points": [
+   {
+    "title": "",
+    "body": ""
+   },
+   {
+    "title": "",
+    "body": ""
+   },
+   {
+    "title": "",
+    "body": ""
+   }
+  ]
+ },
+ "aptitude_map": {
+  "x_left": "作る側の目線",
+  "x_right": "使う側の目線",
+  "y_top": "自走できる",
+  "y_bottom": "伴走が前提",
+  "quadrants": [
+   "自走して作る・試す",
+   "自走して使い方を広げる",
+   "支援の下で作る",
+   "支援の下で使う"
+  ],
+  "points": []
+ }
+}
